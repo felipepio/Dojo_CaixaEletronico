@@ -1,0 +1,8 @@
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Release\CaixaEletronico.exe.config
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Release\CaixaEletronico.exe
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Release\CaixaEletronico.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\obj\Release\CaixaEletronico.exe
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\obj\Release\CaixaEletronico.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\obj\Release\CaixaEletronico.csprojResolveAssemblyReference.cache
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Release\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Release\Utilitarios.pdb

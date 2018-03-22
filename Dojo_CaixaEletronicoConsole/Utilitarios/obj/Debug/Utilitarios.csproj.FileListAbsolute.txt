@@ -1,0 +1,7 @@
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\Utilitarios\bin\Debug\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\Utilitarios\bin\Debug\Utilitarios.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\Utilitarios\obj\Debug\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\Utilitarios\obj\Debug\Utilitarios.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\Utilitarios\bin\Debug2\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\Utilitarios\bin\Debug2\Utilitarios.pdb

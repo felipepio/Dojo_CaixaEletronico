@@ -1,0 +1,52 @@
+D:\Desenvolvimento\C#\DOJO Rede\CaixaEletronico_Exemplo\CaixaEletronico_Exemplo\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+D:\Desenvolvimento\C#\DOJO Rede\CaixaEletronico_Exemplo\CaixaEletronico_Exemplo\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+D:\Desenvolvimento\C#\DOJO Rede\CaixaEletronico_Exemplo\CaixaEletronico_Exemplo\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+D:\Desenvolvimento\C#\DOJO Rede\CaixaEletronico_Exemplo\CaixaEletronico_Exemplo\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\C#\DOJO Rede\CaixaEletronico_Exemplo\CaixaEletronico_Exemplo\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+D:\Desenvolvimento\C#\DOJO Rede\CaixaEletronico_Exemplo\CaixaEletronico_Exemplo\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug\Utilitarios.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug1\CaixaEletronico.exe.config
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug1\CaixaEletronico.exe
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug1\CaixaEletronico.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug1\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug1\Utilitarios.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug2\CaixaEletronico.exe.config
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug2\CaixaEletronico.exe
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug2\CaixaEletronico.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug2\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug2\Utilitarios.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug3\CaixaEletronico.exe.config
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug3\CaixaEletronico.exe
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug3\CaixaEletronico.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug3\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug3\Utilitarios.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug4\CaixaEletronico.exe.config
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug4\CaixaEletronico.exe
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug4\CaixaEletronico.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug4\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug4\Utilitarios.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug5\CaixaEletronico.exe.config
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug5\CaixaEletronico.exe
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug5\CaixaEletronico.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug5\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug5\Utilitarios.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug6\CaixaEletronico.exe.config
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug6\CaixaEletronico.exe
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug6\CaixaEletronico.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug6\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\CaixaEletronico\bin\Debug6\Utilitarios.pdb
+D:\Users\314594\Documents\Visual Studio 2013\Projects\Dojo_CaixaEletronicoConsole\CaixaEletronico\bin\Debug4\CaixaEletronico.exe.config
+D:\Users\314594\Documents\Visual Studio 2013\Projects\Dojo_CaixaEletronicoConsole\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+D:\Users\314594\Documents\Visual Studio 2013\Projects\Dojo_CaixaEletronicoConsole\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
+D:\Users\314594\Documents\Visual Studio 2013\Projects\Dojo_CaixaEletronicoConsole\CaixaEletronico\bin\Debug4\CaixaEletronico.exe
+D:\Users\314594\Documents\Visual Studio 2013\Projects\Dojo_CaixaEletronicoConsole\CaixaEletronico\bin\Debug4\CaixaEletronico.pdb
+D:\Users\314594\Documents\Visual Studio 2013\Projects\Dojo_CaixaEletronicoConsole\CaixaEletronico\bin\Debug4\Utilitarios.dll
+D:\Users\314594\Documents\Visual Studio 2013\Projects\Dojo_CaixaEletronicoConsole\CaixaEletronico\bin\Debug4\Utilitarios.pdb
+D:\Users\314594\Documents\Visual Studio 2013\Projects\Dojo_CaixaEletronicoConsole\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache

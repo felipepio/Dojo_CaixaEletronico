@@ -1,0 +1,4 @@
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\Utilitarios\bin\Release\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\Utilitarios\bin\Release\Utilitarios.pdb
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\Utilitarios\obj\Release\Utilitarios.dll
+d:\Users\314594\Desktop\Dojo C#\CaixaEletronico\Utilitarios\obj\Release\Utilitarios.pdb
